@@ -8,7 +8,7 @@ Offline storage
 Minimalistic and user-friendly interface
 
 Getting Started
-Clone the repository: git clone https://github.com/bishal-sub/Dart-note-for-brgineers.git
+Clone the repository: git clone https://github.com/bishal-sub/Dart-note-for-begineers.git
 
 Navigate to the project directory: cd Dart-note-for-begineers
 
