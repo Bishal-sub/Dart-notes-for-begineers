@@ -10,6 +10,6 @@ Minimalistic and user-friendly interface
 Getting Started
 Clone the repository: git clone https://github.com/bishal-sub/Dart-note-for-brgineers.git
 
-Navigate to the project directory: cd Dart-note-for-brgineers
+Navigate to the project directory: cd Dart-note-for-begineers
 
 Run the app: dart run
