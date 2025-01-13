@@ -1,11 +1,4 @@
-This repository contains a note-taking application built using Dart. The app allows users to create, edit, and delete notes, making it a simple and efficient tool for managing personal notes and to-do lists. It focuses on showcasing the capabilities of Dart as a programming language.
-
-Features
-Create, edit, and delete notes
-
-Offline storage
-
-Minimalistic and user-friendly interface
+This repository is a collection of resources and notes for learning the Dart programming language. It includes tutorials, documentation, and examples to help beginners .
 
 Getting Started
 Clone the repository: git clone git@github.com:Bishal-sub/Dart-notes-for-begineers.git
