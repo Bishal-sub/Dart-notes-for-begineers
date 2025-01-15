@@ -1,4 +1,4 @@
-This repository is a collection of resources and notes for learning the Dart programming language. It includes tutorials, documentation, and examples to help beginners .
+This repository is a collection of resources and notes for learning the Dart programming language. It is for beginners .
 
 Getting Started
 Clone the repository: git clone https://github.com/Bishal-sub/Dart-notes-for-begineers.
