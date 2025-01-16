@@ -5,4 +5,3 @@ Clone the repository: git clone https://github.com/Bishal-sub/Dart-notes-for-beg
 
 Navigate to the project directory: cd Dart-notes-for-begineers
 
-Run the app: dart run
