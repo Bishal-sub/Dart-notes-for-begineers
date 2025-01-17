@@ -46,4 +46,13 @@ class Honda extends Car {
   }
 }
 
-v
+void main() {
+  // Method overriding example
+  var kia = Kia("Sonet", 20);
+  kia.display();
+  kia.showDetails();
+
+  var honda = Honda("Civic", "15 km/l");
+  honda.display();
+  honda.showDetails();
+}
