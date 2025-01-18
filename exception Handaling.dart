@@ -65,10 +65,4 @@ class MarksException implements Exception {
   }
 }
 
-void Marks(int marks) {
-  // Checking if marks are outside the valid range (0 to 100)
-  if (marks < 0 || marks > 100) {
-    // Throwing custom exception if marks are invalid
-    throw MarksException();
-  }
-}
+
