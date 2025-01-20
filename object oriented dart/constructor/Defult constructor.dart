@@ -14,17 +14,4 @@ class Car {
   }
 }
 
-void main() {
-  // Creating a list of car objects using the default constructor
-  final carDetail = [
-    Car('Kia', 25, 1998),
-    Car('Suzuki', 25, 1998),
-    Car('Honda', 25, 1998),
-    Car('Supra', 25, 1998),
-  ];
 
-  // Displaying the details of each car
-  for (var car in carDetail) {
-    car.showDetail();
-  }
-}
