@@ -71,5 +71,3 @@ void Marks(int marks) {
     throw MarksException();
   }
 }
-
-
