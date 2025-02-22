@@ -5,7 +5,6 @@ void printPersonDetails(
   print("Age: $age");
   print("City: $city");
 }
-
 void main() {
   // Calling the function with all parameters
   printPersonDetails(name: "Ram", age: 25, city: "Kathmandu");
