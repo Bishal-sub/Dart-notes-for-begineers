@@ -6,6 +6,7 @@ void main() {
   } else {
     print("You are a minor."); // Prints this message if 'age' is less than 18
   }
+  
 
   // If-Else If-Else Ladder Statement
   var score = 85; // Defining a variable 'score' and assigning it the value 85
