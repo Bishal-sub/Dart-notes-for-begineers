@@ -10,6 +10,8 @@ void main() {
     print("Cannot divide by zero");
   }
 
+
+  
   // Case 2: Using 'catch' Clauses
   print("Case 2 : catch clause");
   try {
