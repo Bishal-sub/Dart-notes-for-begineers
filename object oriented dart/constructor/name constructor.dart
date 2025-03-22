@@ -9,6 +9,7 @@ class Car {
         mileage = carMileage,
         year = carYear;
 
+  
   // Method to display car details
   void showDetail() {
     print("Car Name is $name");
