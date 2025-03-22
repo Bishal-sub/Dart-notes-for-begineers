@@ -6,6 +6,8 @@ class Car {
   }
 }
 
+
+
 // Child class inheriting from Car class
 class Kia extends Car {
   String model;
