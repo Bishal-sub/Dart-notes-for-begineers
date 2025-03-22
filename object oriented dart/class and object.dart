@@ -12,6 +12,7 @@ class Car {
 }
 
 
+
 void main() {
   // Creating an object of the Car class using the default constructor
   final carDetail = Car();
